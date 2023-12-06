@@ -4,7 +4,7 @@ src="https://https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" he
 
 <br/>
 <a href="https://velog.io/@minu1117" alt="Minwoo's blog" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
+  <img src="https://github.com/als904204/als904204/blob/main/images/newbie.png" height="40" />
 </a>
 
 
@@ -18,6 +18,6 @@ I want become a backend developer
 I'm studying on development often
 
 
-## ✏️ Recent Blog
+## ✏️ What I'm Styuding
 
 
