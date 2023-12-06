@@ -17,7 +17,6 @@ I want become a backend developer
 
 I'm studying on development often
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ## ✏️ Recent Blog
 
