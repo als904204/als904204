@@ -1,17 +1,24 @@
 <h1 align="center">Hi there, I'm <a href="https://velog.io/@minu1117" target="_blank">Min Woo</a> <img
 src="https://https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<!--
-**als904204/als904204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
+<a href="https://velog.io/@minu1117" alt="Minwoo's blog" target="_blank">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<br />
+
+Hi, I'm Minwoo
+
+I want become a backend developer
+
+I'm studying on development often
+
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
+## ✏️ Recent Blog
+
+
