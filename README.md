@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요<a href="https://velog.io/@minu1117" target="_blank"> </a>  <img
+<h1 align="center">Hi i'm <a href="https://velog.io/@minu1117" target="_blank">Minwoo </a>  <img
 src="https://https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 
