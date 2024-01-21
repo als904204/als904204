@@ -1,7 +1,7 @@
-<h1 align="center">Hi i'm <a href="https://velog.io/@minu1117" target="_blank">Minwoo </a>  <img
+<h1 align="center">Hi i'm Minwoo </a>  <img
 src="https://https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-
+<a href="https://velog.io/@minu1117" target="_blank">Blog
 
 <br/>
 
