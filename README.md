@@ -1,7 +1,7 @@
 <h1 align="center">minwoo</a>  <img
 src="https://https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<a href="https://velog.io/@minu1117" target="_blank">Blog 
+
 
 <br/>
 
@@ -17,3 +17,6 @@ src="https://https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" he
 ![js](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+Blog:<a href="https://velog.io/@minu1117" target="_blank">
