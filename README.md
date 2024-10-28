@@ -19,4 +19,4 @@ src="https://https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" he
 ![js](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-<a href="https://velog.io/@minu1117" target="_blank">Blog</a>
+
