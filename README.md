@@ -17,10 +17,10 @@
 </div>
 
 ## 🚀 Projects
-- [Pictz]([프로젝트 링크](https://github.com/als904204/pictz))
+- [Pictz](https://github.com/als904204/pictz)
 - [WebDuck](https://github.com/als904204/WebDuck)
 
 
 ## 📫 Blog
 
-- [Blog]([블로그 링크](https://velog.io/@minu1117/posts))
+- [Blog](https://velog.io/@minu1117/posts)
