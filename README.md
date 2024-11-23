@@ -4,8 +4,19 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fals904204%2Fhit-counter&count_bg=%230086FF&title_bg=%23A4A4A4&icon=datadog.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=als904204&show_icons=true&theme=radical" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/farms/als904204" width="400" height="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-![als904204's GitHub Stats](https://github-readme-stats.vercel.app/api?username=als904204&show_icons=true&theme=radical)
 
 ## 🛠️ Technologies
 
