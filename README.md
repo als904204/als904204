@@ -11,11 +11,17 @@
     </td>
     <td width="50%">
       <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/als904204" width="400" height="200"/>
+      <img
+        src="https://render.gitanimals.org/farms/als904204"
+        width="600"
+        height="300"
+      />
       </a>
     </td>
   </tr>
 </table>
+
+
 
 
 ## 🛠️ Technologies
