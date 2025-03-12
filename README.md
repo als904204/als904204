@@ -35,7 +35,7 @@
 </div>
 
 ## 🚀 Projects
-- [Pictz](https://github.com/als904204/pictz)
+- [Detalk]([https://github.com/als904204/pictz](https://github.com/als904204/detalk-api))
 - [WebDuck](https://github.com/als904204/WebDuck)
 
 
