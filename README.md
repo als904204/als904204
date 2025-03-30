@@ -2,8 +2,9 @@
   minwoo <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> 
 </h1>
 
-![](https://komarev.com/ghpvc/?username=als904204=brightgreen)
 
+
+![](https://komarev.com/ghpvc/?username=als904204&color=brightgreen)
 
 <table>
   <tr>
