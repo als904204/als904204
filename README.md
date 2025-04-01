@@ -6,22 +6,10 @@
 
 ![](https://komarev.com/ghpvc/?username=als904204&color=brightgreen)
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=als904204&show_icons=true&theme=radical" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/devxb/gitanimals">
-      <img
-        src="https://render.gitanimals.org/farms/als904204"
-        width="600" 
-        height="300"
-      />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=als904204&show_icons=true&theme=radical" />
+</td>
 
 
 
