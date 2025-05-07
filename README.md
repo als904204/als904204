@@ -1,9 +1,9 @@
 <h1 align="center">
   Minwoo <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
-<p align="center">
+<!-- <p align="center">
   <em>Backend Developer<br>Spring Boot, Java, MySQL</em>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=als904204&color=brightgreen&style=flat-square" alt="profile views"/>
