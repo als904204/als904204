@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=als904204&color=brightgreen&style=flat-square" alt="profile views"/>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
